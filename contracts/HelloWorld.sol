@@ -6,7 +6,7 @@ contract HelloWorld {
     address public owner;
 
     constructor() {
-        text = "Hello Everyone";
+        text = "Hello Everyoneeeee";
         owner = msg.sender;
     }
 

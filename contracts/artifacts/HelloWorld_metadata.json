@@ -91,11 +91,11 @@
 	},
 	"sources": {
 		"contracts/HelloWorld.sol": {
-			"keccak256": "0xa1e17eca32fca1b1cd520b58e3820c65cf438c0068ed03f089b42e7a06bd6883",
+			"keccak256": "0x39e58acf42621e32eb4580a4131f2ea7b162f8736b01cc30262d9d170056891a",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://80940a6f5847e6b8eac9f74f5c79a7406d48e92b2d5950ccf47ceba3b19797dd",
-				"dweb:/ipfs/QmSDoeXDvfHLZijjj2THqkyd3sLoixwh7AVGfm9R6yjGG8"
+				"bzz-raw://3cab82c151523b869dc0618cc3a0a384c06bbe8bbc218749d014acd4767572fc",
+				"dweb:/ipfs/QmQT1VmW7dpg9za7S7hEqC4TcQxBf4kEYEB9znqS89Em2U"
 			]
 		}
 	},
